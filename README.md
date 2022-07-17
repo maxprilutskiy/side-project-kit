@@ -299,6 +299,10 @@ If you have found some great tool or app (😍), please, contribute to **Side Pr
 -   [Hotjar](https://www.hotjar.com/) - behavior analytics and feedback data, has tools like Heatmaps, Session Recordings, Surveys, and an Incoming Feedback widget.
 
     [Pricing](https://www.hotjar.com/pricing/business/): Capture up to 1,000 pageviews/heatmap, Manual data capture, Create 3 Heatmaps, Up to 300 Recordings, Create and store 3 Surveys & Incoming Feedback widgets.
+    
+    -   [Smartlook](https://www.smartlook.com/) - behavior analytics, has tools like Heatmaps, Session Recordings. Support both web and mobile applications.
+
+    [Pricing](https://www.smartlook.com/pricing/): Capture up to 1,500 sessions per month, 1 funnel analysis and 3 heatmaps.
 
 #### Split tests
 
